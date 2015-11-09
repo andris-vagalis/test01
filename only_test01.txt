@@ -1,1 +1,3 @@
 Local copy update to repository GitHUB test01
+Add some new lines into this file
+Repair some bugs
